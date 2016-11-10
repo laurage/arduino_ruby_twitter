@@ -1,0 +1,7 @@
+# twitter_api_config.yml
+# Put XYZ values for the application created at apps.twitter.com
+
+consumer_key: EEtlDREcAIxjtCBZYdCWOzSb6
+consumer_secret: k9cRwtdEyIgcH2W8PUEMOCQdj6nWS7nwDsUM1wlWr78Bq77rpG
+oauth_token:  796461528379695104-tJOQzU4nN0diCSAZcDKzKpCIQiROQGI
+oauth_token_secret:  JwArL24wLI73XWKzbazdL0J5ZsA2WgNTzvWH15u1XIGot
